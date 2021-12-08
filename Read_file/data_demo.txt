@@ -1,0 +1,6 @@
+Tom - salesman
+Smith - Salesman
+Ann - Receptionist
+Oscar - Accountant
+sam - Ceo
+Anye - Cto
